@@ -1,6 +1,5 @@
 import os
 import shutil
-import queue
 import copy
 
 BASE_DIR = os.getcwd()
