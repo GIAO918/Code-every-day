@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c8d0c165-1f7b-4d3f-81dd-4939dab5adfb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/腾讯云_TEST.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/文件过滤/点我启动.py" beforeDir="false" afterPath="$PROJECT_DIR$/文件过滤/点我启动.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/身份证号识别/要识别的身份证/微信图片_20190520161643.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/身份证号识别/要识别的身份证/微信图片_20190520161701.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/身份证号识别/要识别的身份证/微信图片_20190520161705.jpg" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,10 +14,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Code_every_day$__1_.coverage" NAME="点我启动 (1) Coverage Results" MODIFIED="1558324251264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/文件过滤" />
-    <SUITE FILE_PATH="coverage/Code_every_day$.coverage" NAME="开始识别 Coverage Results" MODIFIED="1558344941826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/身份证号识别" />
+    <SUITE FILE_PATH="coverage/Code_every_day$__1_.coverage" NAME="点我启动 (1) Coverage Results" MODIFIED="1558324251264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../文件过滤" />
+    <SUITE FILE_PATH="coverage/Code_every_day$.coverage" NAME="开始识别 Coverage Results" MODIFIED="1558344941826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../身份证号识别" />
     <SUITE FILE_PATH="coverage/Code_every_day$ORC.coverage" NAME="ORC Coverage Results" MODIFIED="1558338344870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/文件过滤" />
     <SUITE FILE_PATH="coverage/A_daily_practice$The_interview_questions.coverage" NAME="The_interview_questions Coverage Results" MODIFIED="1557843125817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Code_every_day$fangzhou.coverage" NAME="fangzhou Coverage Results" MODIFIED="1559289324021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/桌面挂机助手" />
     <SUITE FILE_PATH="coverage/A_daily_practice$socket_service.coverage" NAME="socket_service Coverage Results" MODIFIED="1557840721797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/A_daily_practice$scoket_client.coverage" NAME="scoket_client Coverage Results" MODIFIED="1557840724111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/A_daily_practice$socket_practise.coverage" NAME="socket_practise Coverage Results" MODIFIED="1557834631842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -92,6 +94,24 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-482878126">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="286" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="286" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FavoritesManager">
     <favorites_list name="A daily practice" />
@@ -99,12 +119,12 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$USER_HOME$/Desktop/身份证号识别/开始识别.py">
+        <entry file="file://$PROJECT_DIR$/桌面挂机助手/fangzhou.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="8" column="44" lean-forward="true" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+            <state relative-caret-position="371">
+              <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
               <folding>
-                <element signature="e#31#40#0" expanded="true" />
+                <element signature="e#15#26#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -131,11 +151,12 @@
         <option value="$PROJECT_DIR$/The_interview_questions.py" />
         <option value="$PROJECT_DIR$/文件过滤/查询条件" />
         <option value="$PROJECT_DIR$/文件过滤/query.txt" />
-        <option value="$USER_HOME$/Desktop/文件过滤/点我启动.py" />
+        <option value="$PROJECT_DIR$/../文件过滤/点我启动.py" />
         <option value="$PROJECT_DIR$/文件过滤/ORC.py" />
         <option value="$PROJECT_DIR$/腾讯云_TEST.py" />
-        <option value="$USER_HOME$/Desktop/身份证号识别/开始识别.py" />
+        <option value="$PROJECT_DIR$/../身份证号识别/开始识别.py" />
         <option value="$PROJECT_DIR$/文件过滤/点我启动.py" />
+        <option value="$PROJECT_DIR$/桌面挂机助手/fangzhou.py" />
       </list>
     </option>
   </component>
@@ -145,9 +166,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="178" />
-    <option name="y" value="88" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="46" />
+    <option name="y" value="6" />
     <option name="width" value="1203" />
     <option name="height" value="1031" />
   </component>
@@ -188,6 +209,16 @@
               <item name="Code-every-day" type="462c0819:PsiDirectoryNode" />
               <item name="文件过滤" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Code-every-day" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Code-every-day" type="462c0819:PsiDirectoryNode" />
+              <item name="桌面挂机助手" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Code-every-day" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Code-every-day" type="462c0819:PsiDirectoryNode" />
+              <item name="身份证号识别" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -224,7 +255,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.开始识别">
+  <component name="RunManager" selected="Python.fangzhou">
     <configuration name="点我启动 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="A daily practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -233,12 +264,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop/文件过滤" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../文件过滤" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/文件过滤/点我启动.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../文件过滤/点我启动.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -261,28 +292,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/文件过滤/点我启动.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="开始识别" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="A daily practice" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop/身份证号识别" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/身份证号识别/开始识别.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -335,16 +344,60 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="开始识别" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="A daily practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../身份证号识别" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../身份证号识别/开始识别.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="fangzhou" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="A daily practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/桌面挂机助手" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/桌面挂机助手/fangzhou.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.The_interview_questions" />
       <item itemvalue="Python.点我启动" />
       <item itemvalue="Python.点我启动 (1)" />
       <item itemvalue="Python.ORC" />
-      <item itemvalue="Python.开始识别" />
+      <item itemvalue="Python.fangzhou" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.开始识别" />
+        <item itemvalue="Python.fangzhou" />
         <item itemvalue="Python.ORC" />
         <item itemvalue="Python.点我启动 (1)" />
         <item itemvalue="Python.点我启动" />
@@ -366,14 +419,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="46" y="6" width="1203" height="1031" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49836066" visible="true" weight="0.26119402" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49836066" visible="true" weight="0.18197726" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.50163937" side_tool="true" weight="0.24962178" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3363029" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.34593356" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997773" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -457,48 +510,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/文件过滤/点我启动.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="18" column="33" lean-forward="true" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/文件过滤/111.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/文件过滤/ORC.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="e#31#40#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/腾讯云_TEST.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../文件过滤/点我启动.py" />
+    <entry file="file://$PROJECT_DIR$/文件过滤/111.jpg" />
+    <entry file="file://$PROJECT_DIR$/文件过滤/ORC.py" />
+    <entry file="file://$PROJECT_DIR$/腾讯云_TEST.py" />
     <entry file="file://$PROJECT_DIR$/文件过滤/点我启动.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="650">
           <caret line="26" column="68" lean-forward="true" selection-start-line="26" selection-start-column="68" selection-end-line="26" selection-end-column="68" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/身份证号识别/开始识别.py">
+    <entry file="file://$PROJECT_DIR$/../身份证号识别/开始识别.py" />
+    <entry file="file://$PROJECT_DIR$/桌面挂机助手/fangzhou.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="44" lean-forward="true" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+        <state relative-caret-position="371">
+          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
           <folding>
-            <element signature="e#31#40#0" expanded="true" />
+            <element signature="e#15#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
