@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c8d0c165-1f7b-4d3f-81dd-4939dab5adfb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/身份证号识别/要识别的身份证/微信图片_20190520161643.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/身份证号识别/要识别的身份证/微信图片_20190520161701.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/身份证号识别/要识别的身份证/微信图片_20190520161705.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Network_programming/scoket_client.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Network_programming/socket_service.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/桌面挂机助手/fangzhou.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/桌面挂机助手/picpick_inst.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/身份证号识别/successful.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/身份证号识别/使用前必读.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/身份证号识别/开始识别.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -97,8 +100,10 @@
     <session id="-482878126">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.18" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -119,13 +124,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/桌面挂机助手/fangzhou.py">
+        <entry file="file://$PROJECT_DIR$/The_interview_questions.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="371">
-              <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
-              <folding>
-                <element signature="e#15#26#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="-50">
+              <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -166,7 +168,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="46" />
     <option name="y" value="6" />
     <option name="width" value="1203" />
@@ -197,6 +199,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -209,21 +212,10 @@
               <item name="Code-every-day" type="462c0819:PsiDirectoryNode" />
               <item name="文件过滤" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Code-every-day" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Code-every-day" type="462c0819:PsiDirectoryNode" />
-              <item name="桌面挂机助手" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Code-every-day" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Code-every-day" type="462c0819:PsiDirectoryNode" />
-              <item name="身份证号识别" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -421,7 +413,7 @@
   <component name="ToolWindowManager">
     <frame x="46" y="6" width="1203" height="1031" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49836066" visible="true" weight="0.18197726" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49836066" visible="true" weight="0.18547681" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.50163937" side_tool="true" weight="0.24962178" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -474,28 +466,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Network_programming/socket_service.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="19" column="40" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Network_programming/scoket_client.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Network_programming/socket_service.py" />
+    <entry file="file://$PROJECT_DIR$/Network_programming/scoket_client.py" />
     <entry file="file://$PROJECT_DIR$/文件过滤/查询条件" />
-    <entry file="file://$PROJECT_DIR$/The_interview_questions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/文件过滤/query.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -524,11 +497,15 @@
     <entry file="file://$PROJECT_DIR$/../身份证号识别/开始识别.py" />
     <entry file="file://$PROJECT_DIR$/桌面挂机助手/fangzhou.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="371">
-          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
-          <folding>
-            <element signature="e#15#26#0" expanded="true" />
-          </folding>
+        <state>
+          <caret column="24" selection-start-column="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/The_interview_questions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-50">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
         </state>
       </provider>
     </entry>
